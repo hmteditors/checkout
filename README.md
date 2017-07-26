@@ -16,4 +16,5 @@
 - bits and pieces missing, see quarry (I estimate it's about  1/2 - 2/3 done)
 
 ## [Book 24](https://github.com/hmteditors/il24-all)
-- almost complete, naming issues with scholia inventory
+- almost complete, naming issues with scholia inventory.  Neel is assigned the task of resolving name conflicts in August when text editing is complete.
+
